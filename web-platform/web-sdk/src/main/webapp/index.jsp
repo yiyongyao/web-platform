@@ -1,7 +1,7 @@
 <html>
 <body>
-<h2>Hello World!中国</h2>
-<h2>Hello World!中国</h2>
-<h2>Hello World!中国</h2>
+你好世界,我是新的人类!
+
+
 </body>
 </html>
