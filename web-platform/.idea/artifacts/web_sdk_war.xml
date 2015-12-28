@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-sdk:war">
+    <output-path>$PROJECT_DIR$/web-sdk/target</output-path>
+    <root id="archive" name="web-sdk.war">
+      <element id="artifact" artifact-name="web-sdk:war exploded" />
+    </root>
+  </artifact>
+</component>
